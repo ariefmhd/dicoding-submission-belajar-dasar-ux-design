@@ -1,2 +1,2 @@
-# dicoding-submission-belajar-dasar-ux-design
+# UX Design - Aplikasi Resep Masakan
 Submission by Dicoding
